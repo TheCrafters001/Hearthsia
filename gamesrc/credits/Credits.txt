@@ -1,0 +1,94 @@
+<block:-1,-2,155,155,340,center>
+Hearthsia
+By TheCrafters001
+
+Mapping
+TheCrafters001
+
+Story
+TheCrafters001
+
+Music
+TheCrafters001
+Tanner Helland
+
+Art
+KADOKAWA
+Victor Moura
+Caz Wolf
+</block>
+
+<block:-1,-2,155,155,340,center>
+Plugins
+
+SumRndmDde
+==========
+SRD_GameUpgrade
+SRD_SuperToolsEngine
+SRD_AutoUpdater
+SRD_VideoWait
+SRD_AutoNameBox
+SRD_CameraCore
+SRD_SmoothCamera
+SRD_GameOverCore
+SRD_RetryUpgrade
+SRD_HUDMaker
+SRD_PluginUpdater
+SRD_PressStart
+SRD_PreloaderCore
+
+Fallen Angel Olivia
+===================
+Olivia_AntiPlayerStress
+Olivia_MapDisplayName
+
+Irina's Plugins
+===============
+Irina_AntiAudioDelay
+Irina_AutoMessageColor
+
+Moghunter's Plugins
+===================
+MOG_TimeSystem
+
+FeniXEngine Contributors
+========================
+X_SocialMediaButtons
+X_ChapterSelect
+
+Florian van Strien
+==================
+GameJolt API plugin for RPG Maker MV
+
+Galv
+==================
+GALV_RollCredits
+</block>
+
+<block:-1,-2,155,155,340,center>
+Yanfly Engine Plugins
+=====================
+YEP_CoreEngine
+YEP_BattleEngineCore
+YEP_BattleAICore
+YEP_BuffsStatesCore
+YEP_FpsSynchOption
+YEP_KeyboardConfig
+GamepadConfig
+YEP_MainMenuManager
+YEP_MoveRouteCore
+YEP_MessageCore
+YEP_SaveCore
+Yep_VictoryAftermath
+YEP_X_ActSeqPack1
+YEP_X_ActSeqPack2
+YEP_X_ActSeqPack3
+YEP_X_AnimatedSVEnemies
+YEP_X_BattleSysATB
+YEP_X_BattleSysCTB
+YEP_X_BattleSysSTB
+YEP_X_SkillCooldowns
+
+Thank you to all plugin makers
+for all your hard work!
+</block>
