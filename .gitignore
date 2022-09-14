@@ -1,0 +1,6 @@
+/gamesrc/save/
+gamesrc_old/
+gamesrcShouldOpenSTE
+gamesrc/js/plugins/*.js
+gamesrc/js/plugins/*.html
+gamesrc/js/plugins/*.svg
